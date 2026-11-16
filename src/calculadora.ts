@@ -1,5 +1,5 @@
 export function somar(a: number, b: number): number {
-    return "erro de compilacao";
+    return a - b;
 }
 
 export function subtrair(a: number, b: number): number {
